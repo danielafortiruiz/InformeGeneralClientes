@@ -31,8 +31,13 @@ As a data analyst, I have developed a dynamic dashboard in Power BI designed for
 ## 📈 **Dashboard Preview**
 
 <p align="center">
-  <img src="https://github.com/danielafortiruiz/Customer_challenge/blob/main/your-image.png?raw=true" alt="Customer Challenge Dashboard" width="600"/>
+  <img src="https://github.com/danielafortiruiz/InformeGeneralClientes/blob/main/customer%20img%201.png?raw=true" alt="Customer Challenge Dashboard" width="600"/>
 </p>
+
+<p align="center">
+  <img src="https://github.com/danielafortiruiz/InformeGeneralClientes/blob/main/imagen%202%20challenge.png?raw=true" alt="Imagen Challenge" />
+</p>
+
 
 ## 📝 **Tags**
 #DataAnalysis #PowerBI #DataVisualization #BusinessIntelligence
