@@ -35,7 +35,7 @@ As a data analyst, I have developed a dynamic dashboard in Power BI designed for
 </p>
 
 <p align="center">
-  <img src="https://github.com/danielafortiruiz/InformeGeneralClientes/blob/main/imagen%202%20challenge.png?raw=true" alt="Imagen Challenge" />
+  <img src="https://github.com/danielafortiruiz/InformeGeneralClientes/blob/main/imagen%202%20challenge.png?raw=true" alt="Imagen Challenge" width="600"/>
 </p>
 
 
